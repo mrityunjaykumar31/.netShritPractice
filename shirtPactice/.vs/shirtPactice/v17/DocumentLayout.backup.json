@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\controllers\\authoritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:controllers\\authoritycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\shirtpactice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:shirtpactice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\controllers\\shirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:controllers\\shirtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\filter\\auth\\jwttokenauthfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:filter\\auth\\jwttokenauthfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\filter\\action\\shirt_validateidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:filter\\action\\shirt_validateidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\filter\\action\\shirt_updatefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:filter\\action\\shirt_updatefilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\modal\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:modal\\authenticate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\modal\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:modal\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\modal\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:modal\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\filter\\exception\\shirt_update_exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:filter\\exception\\shirt_update_exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\repository\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:repository\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\shirtpactice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:shirtpactice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Controllers\\ClientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLClientRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\IClientRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\data\\shirtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:data\\shirtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLAdminRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Migrations\\20250129103803_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250129103803_Init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Data\\ExamDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\modal\\validator\\shirt_validation_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:modal\\validator\\shirt_validation_attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|c:\\users\\amritanjay\\source\\repos\\shirtpactice\\migrations\\20250129104029_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC6508-9C96-4D04-9F9F-4B61E3A3EA5F}|shirtPactice.csproj|solutionrelative:migrations\\20250129104029_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:45:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shirt_UpdateFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Action\\Shirt_UpdateFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filter\\Action\\Shirt_UpdateFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Action\\Shirt_UpdateFilterAttribute.cs",
+              "RelativeToolTip": "Filter\\Action\\Shirt_UpdateFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:59:09.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorityController.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Controllers\\AuthorityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorityController.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Controllers\\AuthorityController.cs",
+              "RelativeToolTip": "Controllers\\AuthorityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:10:24.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShirtController.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Controllers\\ShirtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShirtController.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Controllers\\ShirtController.cs",
+              "RelativeToolTip": "Controllers\\ShirtController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:08:54.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shirtPactice.csproj",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\shirtPactice.csproj",
+              "RelativeDocumentMoniker": "shirtPactice.csproj",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\shirtPactice.csproj",
+              "RelativeToolTip": "shirtPactice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T09:50:37.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T10:07:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T10:34:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shirt_ValidateIdFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Action\\Shirt_ValidateIdFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filter\\Action\\Shirt_ValidateIdFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Action\\Shirt_ValidateIdFilterAttribute.cs",
+              "RelativeToolTip": "Filter\\Action\\Shirt_ValidateIdFilterAttribute.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:48:37.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenAuthFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Auth\\JwtTokenAuthFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Filter\\Auth\\JwtTokenAuthFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Auth\\JwtTokenAuthFilterAttribute.cs",
+              "RelativeToolTip": "Filter\\Auth\\JwtTokenAuthFilterAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:56:12.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authenticate.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Authenticate.cs",
+              "RelativeDocumentMoniker": "Modal\\Authenticate.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Authenticate.cs",
+              "RelativeToolTip": "Modal\\Authenticate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:41:36.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Authentication.cs",
+              "RelativeDocumentMoniker": "Modal\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Authentication.cs",
+              "RelativeToolTip": "Modal\\Authentication.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:17:07.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shirt_Update_ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Exception\\Shirt_Update_ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filter\\Exception\\Shirt_Update_ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Filter\\Exception\\Shirt_Update_ExceptionFilter.cs",
+              "RelativeToolTip": "Filter\\Exception\\Shirt_Update_ExceptionFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:01:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Shirt.cs",
+              "RelativeDocumentMoniker": "Modal\\Shirt.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Shirt.cs",
+              "RelativeToolTip": "Modal\\Shirt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:47:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shirtPactice.http",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\shirtPactice.http",
+              "RelativeDocumentMoniker": "shirtPactice.http",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\shirtPactice.http",
+              "RelativeToolTip": "shirtPactice.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-06T10:59:54.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Repository\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Repository\\ShirtRepository.cs",
+              "RelativeToolTip": "Repository\\ShirtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:04:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T10:03:09.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:02:49.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\IClientRepository.cs",
+              "ToolTip": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:03:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLClientRepository.cs",
+              "DocumentMoniker": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLClientRepository.cs",
+              "ToolTip": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLClientRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:03:33.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250129103803_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Migrations\\20250129103803_Init2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250129103803_Init2.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Migrations\\20250129103803_Init2.cs",
+              "RelativeToolTip": "Migrations\\20250129103803_Init2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:38:03.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShirtDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Data\\ShirtDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShirtDbContext.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Data\\ShirtDbContext.cs",
+              "RelativeToolTip": "Data\\ShirtDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:51:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLAdminRepository.cs",
+              "DocumentMoniker": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLAdminRepository.cs",
+              "ToolTip": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Repository\\SQLAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:15:53.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250129104029_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Migrations\\20250129104029_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250129104029_Init.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Migrations\\20250129104029_Init.cs",
+              "RelativeToolTip": "Migrations\\20250129104029_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:40:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ExamDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Data\\ExamDbContext.cs",
+              "ToolTip": "D:\\Project\\.netProj\\ExamWebApi\\ExamWebApi\\Data\\ExamDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:51:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Shirt_Validation_Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Validator\\Shirt_Validation_Attribute.cs",
+              "RelativeDocumentMoniker": "Modal\\Validator\\Shirt_Validation_Attribute.cs",
+              "ToolTip": "C:\\Users\\Amritanjay\\source\\repos\\shirtPactice\\Modal\\Validator\\Shirt_Validation_Attribute.cs",
+              "RelativeToolTip": "Modal\\Validator\\Shirt_Validation_Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:21:31.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

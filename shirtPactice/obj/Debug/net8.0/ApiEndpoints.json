@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "shirtPactice.Controllers.AuthorityController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Authority",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "shirtPactice.Modal.Authenticate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "shirtPactice.Controllers.ShirtController",
+    "Method": "getAllShirts",
+    "RelativePath": "api/Shirt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "shirtPactice.Controllers.ShirtController",
+    "Method": "CreateShrit",
+    "RelativePath": "api/Shirt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shirt",
+        "Type": "shirtPactice.Modal.Shirt",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "shirtPactice.Modal.Shirt",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "shirtPactice.Controllers.ShirtController",
+    "Method": "getShrittById",
+    "RelativePath": "api/Shirt/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "shirtPactice.Controllers.ShirtController",
+    "Method": "UpdateShrit",
+    "RelativePath": "api/Shirt/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "shirt",
+        "Type": "shirtPactice.Modal.Shirt",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "shirtPactice.Controllers.ShirtController",
+    "Method": "DeletShrit",
+    "RelativePath": "api/Shirt/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
